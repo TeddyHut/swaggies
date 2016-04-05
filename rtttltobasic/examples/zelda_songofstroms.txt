@@ -1,0 +1,1 @@
+Song of Storms/Windmill Hut:b=270,o=6,d=4:d5,a5,1d,d5,a5,1d,2e,e,f,e,f,e,c,1a5,2a5,2d5,f5,g5,1a5,2a5,2a5,2d5,f,g,1e5,d5,a5,1d,d5,a5,1d,2e,e,f,e,f,e,c,1a5,2a5,2d5,f5,g5,1a5,2a5,2a5,1d5,2p,d,a,1d7,d,a,1d7,2e7,e7,f7,e7,f7,e7,c7,1a,2a,2d,f,g,1a,2a,2a,2d,f7,g7,1e5,d,a,1d7,d,a,1d7,2e7,e7,f7,e7,f7,e7,c7,1a,2a,2d,f,g,1a,2a,2a,2a,1d5

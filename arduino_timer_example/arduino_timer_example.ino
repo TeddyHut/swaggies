@@ -21,7 +21,7 @@ void setup() {
   //Start the timer
   my_timer.start();
 
-  //We use a boolean value to store the current timer state
+  //We use a boolean value to store the current LED state
   bool currentState;
   //Run an infinate loop
   while(true) {
@@ -32,6 +32,8 @@ void setup() {
       digitalWrite(11, currentState = !currentState);
       //Reset the timer
       my_timer.reset();
+      //Set the timer back to 1000 milliseconds
+      my_timer = 1000;
       //Start the timer again. It will now be "false", and won't be true again until the time has run out.
       my_timer.start();
     }
